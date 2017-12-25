@@ -116,7 +116,7 @@
             </goals>
             <configuration>
               <configLocation>checkstyle.xml</configLocation>
-              <failsOnError>true</failsOnError>
+              <failsOnError>false</failsOnError>
               <consoleOutput>true</consoleOutput>
               <propertyExpansion>baseDir=${basedir}</propertyExpansion>
               <includeTestSourceDirectory>true</includeTestSourceDirectory>
