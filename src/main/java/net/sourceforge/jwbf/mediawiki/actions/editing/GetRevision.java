@@ -81,7 +81,7 @@ public class GetRevision extends MWAction {
         .param("prop", "revisions") //
         .param("titles", MediaWiki.urlEncode(MediaWiki.pipeJoined(names))) //
         .param("rvprop", getDataProperties(properties) + getReversion(properties)) //
-        .param("rvlimit", "1") //
+        //.param("rvlimit", "1") //
         .buildGet();
   }
 

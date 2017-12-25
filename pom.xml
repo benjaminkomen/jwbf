@@ -3,9 +3,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.sourceforge</groupId>
-  <artifactId>jwbf</artifactId>
-  <name>JWBF</name>
-  <version>4.0.0</version>
+  <artifactId>jwbf-benjamin</artifactId>
+  <name>JWBF (Benjamin)</name>
+  <version>4.0.1</version>
   <description>Java Wiki Bot Framework - A Wiki helper</description>
   <prerequisites>
     <maven>3.1.1</maven>
